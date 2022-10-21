@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="menu.offers" datatype="html">
+        <source>My Offers</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu.applications" datatype="html">
+        <source>My Applications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">28,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu.settings" datatype="html">
+        <source>Profile Settings</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">34,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu.faq" datatype="html">
+        <source>FAQ</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu.logout" datatype="html">
+        <source>Logout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu.language.swedish" datatype="html">
+        <source>Swedish</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">83,84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu.language.english" datatype="html">
+        <source>English</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header.call" datatype="html">
+        <source>Call</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">117,118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="applications.header" datatype="html">
+        <source>My applications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/applications/applications.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="applications.loan_amount" datatype="html">
+        <source>Loan amount:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/applications/applications.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="applications.loan_term" datatype="html">
+        <source>Loan term:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/applications/applications.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="applications.loan_term.value" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="months&lt;/span"/> months</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/applications/applications.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="applications.application_date" datatype="html">
+        <source>Application date:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/applications/applications.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="applications.application_status" datatype="html">
+        <source>Status:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/applications/applications.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faq.header" datatype="html">
+        <source>Frequently asked questions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/faq/faq.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faq.button.see_more" datatype="html">
+        <source>SEE MORE</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/faq/faq.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faq.footer.did_not_get_answer" datatype="html">
+        <source>Did not get an answer to your question?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/faq/faq.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faq.footer.chat_or_call" datatype="html">
+        <source>Chat with us or call <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;fw-500&quot; href=&quot;tel:+46852001730&quot;&gt;"/>08-520 017 30<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/faq/faq.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.header" datatype="html">
+        <source>Signup</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login.header" datatype="html">
+        <source>Login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.error.person_already_exists.header" datatype="html">
+        <source>You already have an active application with us.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login.error.person_not_found.header" datatype="html">
+        <source>Looks like you do not have an account with us yet.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">14,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.sub_header" datatype="html">
+        <source>Use your mobile BankID to complete signup</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login.sub_header" datatype="html">
+        <source>Login safely and securely with BankID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.error.person_already_exists.sub_header" datatype="html">
+        <source>Log in and contact us if you want to make changes to your application.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login.error.person_not_found.sub_header" datatype="html">
+        <source>You first need to make an application.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Are you an investor? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;{{businessLoginUrl}}&quot; class=&quot;text-nowrap&quot;&gt;"/>Log in here.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.error.try_again.header" datatype="html">
+        <source>We encountered an error.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.error.ty_again.link" datatype="html">
+        <source>Try again.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login.button.launch_bank_id_app" datatype="html">
+        <source>Launch BankID App <x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;{{baseHref}}assets/img/bankid.svg&quot; style=&quot;width: 24px&quot; alt=&quot;&quot;&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">49,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.error.button.login" datatype="html">
+        <source>Login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup.error.button.apply_business_loan" datatype="html">
+        <source>Apply for a business loan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">61,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login.error.button.apply_private_loan" datatype="html">
+        <source>Apply for a private loan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">66,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login.error.button.apply_business_loan" datatype="html">
+        <source>Apply for a business loan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">69,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.loan_amount" datatype="html">
+        <source>Loan amount:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.loan_information" datatype="html">
+        <source>Loan information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">66,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.monthly_payment" datatype="html">
+        <source>Monthly payment:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.interest_rate" datatype="html">
+        <source>Interest rate:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.loan_term" datatype="html">
+        <source>Loan term:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">23,24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.loan_term.value" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="years&lt;/div&gt;"/> years</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.compound_interest" datatype="html">
+        <source>Compound interest:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">73,74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.total_amount" datatype="html">
+        <source>Total amount to repay:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">77,78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.other_conditions" datatype="html">
+        <source>Other conditions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">80,81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.setup_fee" datatype="html">
+        <source>Set-up fee:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">37,38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.administration_fee" datatype="html">
+        <source>Administration fee:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">41,42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">86,87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.direct_debit_fee" datatype="html">
+        <source>Direct debit fee:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.complements" datatype="html">
+        <source>Complements</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">49,50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">94,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.offer_details.button.select_offer" datatype="html">
+        <source>SELECT OFFER </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offer-details/offer-details.component.html</context>
+          <context context-type="linenumber">57,61</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">101,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.header.welcome" datatype="html">
+        <source>Welcome</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.body.offer.monthly_payment" datatype="html">
+        <source>Monthly payment:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">122,123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.body.offer.interest_rate" datatype="html">
+        <source>Interest rate:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">127,128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.body.no_applications" datatype="html">
+        <source> Thank you for the application.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/>You don’t have any offers yet. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">134,135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.banks.pending.header" datatype="html">
+        <source> Pending </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">139,141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.banks.pending.description" datatype="html">
+        <source> These banks are still processing your application. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">142,144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.banks.rejected.header" datatype="html">
+        <source> Rejected by banks </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">147,149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.banks.rejected.description" datatype="html">
+        <source> These banks have processed your application but have chosen not to give you an offer. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">150,152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.banks.not_viewed.header" datatype="html">
+        <source> Not viewed by banks </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">155,157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.banks.not_viewed.description" datatype="html">
+        <source> These banks have not processed your application. For example because of income, age or employment type. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">158,160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.header.accepted_offer_welcome" datatype="html">
+        <source>You have selected an offer from </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">178,179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.acceped.success_message" datatype="html">
+        <source> We received your application, bank will contact you as soon as possible. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">199,200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.header.no_running_applications" datatype="html">
+        <source>You have no active loan applications</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.html</context>
+          <context context-type="linenumber">235,239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.sort" datatype="html">
+        <source>Sort</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.sort.amount" datatype="html">
+        <source>Amount</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.ts</context>
+          <context context-type="linenumber">22,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.sort.interest_rate" datatype="html">
+        <source>Interest rate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.ts</context>
+          <context context-type="linenumber">23,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="offers.sort.monthly_payment" datatype="html">
+        <source>Monthly payment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offers/offers.component.ts</context>
+          <context context-type="linenumber">24,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings.header" datatype="html">
+        <source>Profile settings</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings.phone_number" datatype="html">
+        <source>Phone number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings.email" datatype="html">
+        <source>E-mail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings.button.save" datatype="html">
+        <source> SAVE </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">20,22</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
